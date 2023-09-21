@@ -2,6 +2,7 @@
 # The algorithm should return only the next direction in the form of [x, y]
 
 from constants import *
+import fart
 
 """
 You can use the following values from constants.py to check for the type of cell:
